@@ -1,2 +1,2 @@
 # hangman-command-line
-#hangman game ran on node.js
+hangman game ran on node.js
